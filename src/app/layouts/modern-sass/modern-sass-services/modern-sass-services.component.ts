@@ -40,7 +40,7 @@ export class ModernSassServicesComponent implements OnInit {
     {
       img:'assets/images/saas2/our-feature/1.png',
       title:'DevOps',
-      description:'mplementation of Continuous Integration and Continuous Development (CI/CD)  process with Azure Devops, AWS and Google Cloud Platform',
+      description:'implementation of Continuous Integration and Continuous Development (CI/CD) process with Azure DevOps, AWS and Google Cloud Platform',
       stack:'Azure DevOps, Amazon Web Services, Google Cloud Platform, PowerShell, Networking, Pipelines'
     },
     {

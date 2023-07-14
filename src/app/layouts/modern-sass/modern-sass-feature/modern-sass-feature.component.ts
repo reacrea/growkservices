@@ -16,17 +16,17 @@ features = [
   {
     img:'assets/images/saas2/advance-feature/1.png',
     title: 'NEARSHORE PLUS',
-    description: 'We are within your timezone and only a couple of hours away in a direct flight to one of the best cities in Mexico.'
+    description: 'We are within your time zone and only a couple of hours away on a direct flight to one of the best cities in Mexico'
   },
   {
     img:'assets/images/saas2/advance-feature/4.png',
     title: 'FULLY AGILE',
-    description: 'With Certified Scrum Masters and Developers in our team, we adjust and align our process with yours.'
+    description: 'With Certified Scrum Masters and Developers on our team, we adjust and align our process with yours.'
   },
   {
     img:'assets/images/saas2/advance-feature/3.png',
     title: 'BUSINESS STRATEGY',
-    description: 'Wether you work with extended teams or on-demand time and materials, we are ready to collaborating with you.'
+    description: 'Whether you work with extended teams or on-demand time and materials, we are ready to collaborate with you.'
   }/*,
   {
     img:'assets/images/saas2/advance-feature/2.png',

@@ -15,9 +15,9 @@ export class ModernSassPricingComponent implements OnInit {
     { 
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"About Us",
-      feature1:"Growk Services is a Software Development company located in the so called Mexican Silicon Valley, Guadalajara city.",
+      feature1:"Growk Services is a Software Development company located in the so-called Mexican Silicon Valley, Guadalajara City.",
       feature2:"we build an agile talented team of experts to find the best way to grow",
-      feature3:"Location, knowledge and esperience",
+      feature3:"Location, knowledge, and experience",
       feature4:"",
       btn:"More..."
     },
@@ -25,7 +25,7 @@ export class ModernSassPricingComponent implements OnInit {
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"Our Mission",
       feature1:"Talent orientated company",
-      feature2:"proactive, Creative and Technically skilled team",
+      feature2:"proactive, Creative, and Technically skilled team",
       feature3:"complete lifecycle service of software development",
       feature4:"Agile philosophy",
       btn:"More..."
@@ -33,17 +33,17 @@ export class ModernSassPricingComponent implements OnInit {
     {
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"Our Vision",
-      feature1:"Create the most talented team to use and build the lates technologies",
-      feature2:"Become the reference of great software solutions",
+      feature1:"Create the most talented team to use and build the latest technologies",
+      feature2:"Become the reference for great software solutions",
       feature3:"",
       feature4:"",
       btn:"More..."
     },
     {
       img:"assets/images/yoga-img/abs-yoga.png",
-      package:"Why Growk is you perfect partner",
-      feature1:"Located in the Mexican Silicon Valley ",
-      feature2:"Start, Expand or improve your team resucing risks",
+      package:"Why Growk is you the perfect partner",
+      feature1:"Located in the Mexican Silicon Valley",
+      feature2:"Start, Expand, or improve your team reducing risks",
       feature3:"highest software development quality",
       feature4:"Agile methodology",
       btn:"More..."
