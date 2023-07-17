@@ -21,10 +21,10 @@ const routes: Routes = [
     }
   },
   {
-    path: 'modern-sass-services',
+    path: 'services',
     component: ModernSassServiceComponent,
     data: {
-      title: "Growk Services| our services"
+      title: "Growk Services | Our Services"
     }
   },
 

@@ -43,14 +43,14 @@ export class NavService {
 			],*/
     }, 
     {
-      title: 'About US', type: 'link', path: '/page/about-us',
+      title: 'About US', type: 'link', path: '/about-us',
     },
     {
-      title: 'Our Services', type: 'link', path: '/modern-sass-services',
+      title: 'Our Services', type: 'link', path: '/services',
     },
-    {
-      title: 'Blog', type: 'link', path: '/blog/blog-grid/column-no-sidebar',
-    },
+   //  {
+   //    title: 'Blog', type: 'link', path: '/blog/blog-grid/column-no-sidebar',
+   //  },
     /*{
       title: 'Careers', type: 'link', path: '/blog/blog-grid/column-left-sidebar',
     },*/
@@ -119,7 +119,7 @@ export class NavService {
             { path: '/page/faq', title: 'FAQ',  type: 'link' },
             { path: '/page/typography', title: 'Typography',  type: 'link' },
             { path: '/maintenance', title: 'Maintenance',  type: 'link' },
-            { path: '/page/about-us', title: 'About-us',  type: 'link' },
+            { path: '/about-us', title: 'About-us',  type: 'link' },
 
          { title: 'Team',  type: 'sub', children: [
                { path: '/page/team', title: 'Team',  type: 'link' },

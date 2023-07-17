@@ -1,4 +1,7 @@
 <!-- about section Start-->
+<app-header></app-header>
+<app-breadcrumb></app-breadcrumb>
+
 <section class="gym format">
     <div class="container">
         <div class="row">
@@ -12,7 +15,7 @@
                             <p class="p-light about-para">
                                 Growk Services is a Software Development company located in the so called "Mexican Silicon Valley", Guadalajara city. We focus our efforts on our talented people with the knowledge and expertise to deliver Mobile, Web and Cloud solutions to meet our customers' needs.
 
-                                Growk Services is a brand new company formed by talented people with more than 13 years of experience in the IT industry.
+                                Growk Services is a brand new company formed by talented people with more than 15 years of experience in the IT industry.
 
                                 The combination of location, knowledge and experience make Growk Services a top outsourcing choise for our customers to deliver IT solutions.                          </p>
                         </div>
@@ -93,7 +96,7 @@
     </div>
 </section>
 -->
-<section class="event speaker set-relative" id="speaker">
+<section *ngIf="false" class="event speaker set-relative" id="speaker">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -310,7 +313,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="faq-block">
                     <div class="w-100">
                         <ngb-accordion [closeOthers]="true" class="accordion faq" activeIds="static-1">
@@ -413,13 +416,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="faq-img-block">
-                    <img src="assets/images/saas2/faq.png" class="img-fluid" alt="faq-person">
-                </div>
-            </div>
         </div>
     </div>
 </section>
 <!--accordion1 section end-->
-
+<app-footer></app-footer>

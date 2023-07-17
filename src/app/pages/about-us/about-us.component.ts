@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Title } from '@angular/platform-browser';
+import { ActivatedRoute } from '@angular/router';
+import { ColorScssService } from 'src/app/shared/service/color-scss.service';
 
 @Component({
   selector: 'app-about-us',
@@ -7,9 +10,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AboutUsComponent implements OnInit {
 
-  constructor() { }
+  constructor(private route: ActivatedRoute,
+    private title: Title,
+    public colorPicker: ColorScssService) { }
 
   ngOnInit() {
+    this.title.setTitle(this.route.snapshot.data['title']);
+    this.colorPicker.setColorScheme('color-9');
   }
 
   aboutTestimonial = [
