@@ -1,0 +1,12 @@
+@import "/src/sass/breakpoints";
+
+.iframe-container {
+    background: #fff;
+    display: none;
+}
+
+@include tablet {
+    .iframe-container {
+        display: block;
+    }
+}
