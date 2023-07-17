@@ -1,3 +1,11 @@
+@import '/src/sass/breakpoints';
+
 app-menu {
-    min-width: 600px !important;
+    min-width: 600px;
+}
+
+@include tablet-large {
+    img {
+        width: 20%;
+    }
 }

@@ -41,7 +41,7 @@ export class ModernSassPricingComponent implements OnInit {
     },
     {
       img:"assets/images/yoga-img/abs-yoga.png",
-      package:"Your perfect \n partner",
+      package:"Growk is your \n perfect partner",
       feature1:"Located in the Mexican Silicon Valley ",
       feature2:"Start, Expand or improve your development team",
       feature3:"highest software development quality",

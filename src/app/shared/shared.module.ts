@@ -10,9 +10,10 @@ import { CenterMenuComponent } from './components/navigation/center-menu/center-
 import { ToastrModule } from 'ngx-toastr';
 import { OrderByPipe } from './pipes/order-by.pipe';
 import { LoaderComponent } from './components/loader/loader.component';
+import { Nl2brPipe } from './pipes/nl2br.pipe';
 
 @NgModule({
-  declarations: [MenuComponent, TapToTopComponent,HeaderComponent,BreadcrumbComponent,FooterComponent, CenterMenuComponent, OrderByPipe, LoaderComponent],
+  declarations: [MenuComponent, TapToTopComponent,HeaderComponent,BreadcrumbComponent,FooterComponent, CenterMenuComponent, OrderByPipe, LoaderComponent, Nl2brPipe],
   exports:[
     MenuComponent,
     LoaderComponent,
