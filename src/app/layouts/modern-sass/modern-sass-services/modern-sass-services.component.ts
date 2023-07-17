@@ -17,19 +17,20 @@ export class ModernSassServicesComponent implements OnInit {
       img:'assets/images/saas2/our-feature/2.png',
       title:'Web Development',
       description:'Front and Back-end development with JavaScript technologies, creating custom APIs running in Node as well as UI and client-based applications.',
-      stack:'JavaScript, HTML5, CSS3, NodeJS, Express, Angular, ReactJs, MSSQL, MySQL, AWS, GraphQL, VueJs, PHP, C# .Net, Express'
+      // stack:'JavaScript, HTML5, CSS3, NodeJS, Express, Angular, ReactJs, MSSQL, MySQL, AWS, GraphQL, VueJs, PHP, C# .Net, Express'
+      stack:'JavaScript, HTML5, CSS3, NodeJS, Express, Angular, ReactJs, GraphQL, VueJs, Java, C# .Net'
     },
     {
       img:'assets/images/saas2/our-feature/5.png',
       title:'Mobile Development',
       description:'Develop the interfaces and the application for iOS and Android systems using different technologies',
-      stack:'NativeScript, React Native, Ionic, Xamarin'
+      stack:'Flutter, NativeScript, React Native, Ionic, Xamarin'
     },
     {
       img:'assets/images/saas2/our-feature/3.png',
       title:'UI/UX Design',
       description:'Wireframes & graphic design, UX analysis and requirements, branding design.',
-      stack:'Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Mir'
+      stack:'Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Miro, Prototype'
     },
     {
       img:'assets/images/saas2/our-feature/4.png',
@@ -47,7 +48,7 @@ export class ModernSassServicesComponent implements OnInit {
       img:'assets/images/saas2/our-feature/6.png',
       title:'Quality Assurance',
       description:'Test Engineers with web-based, desktop and mobile testing experience, working on different testing phases: Initiation, requirement analysis, test-case design and execution, and defect management.',
-      stack:'Selenium, Postman, Protractor, C# .Net, MySQL, MSSQL'
+      stack:'Selenium, Postman, Protractor, C# .Net, JavaScript, MySQL, MSSQL'
     }
   ]
 }

@@ -15,35 +15,35 @@ export class ModernSassPricingComponent implements OnInit {
     { 
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"About Us",
-      feature1:"Growk Services is a Software Development company located in the so called Mexican Silicon Valley, Guadalajara city.",
-      feature2:"we build an agile talented team of experts to find the best way to grow",
-      feature3:"Location, knowledge and esperience",
+      feature1:"Growk Services is a Software Development company located in Guadalajara, Mexico",
+      feature2:"we built a talented team of experts to develop your software",
+      feature3:"Location, knowledge and experience",
       feature4:"",
       btn:"More..."
     },
     {
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"Our Mission",
-      feature1:"Talent orientated company",
+      feature1:"Talent oriented company",
       feature2:"proactive, Creative and Technically skilled team",
-      feature3:"complete lifecycle service of software development",
-      feature4:"Agile philosophy",
+      feature3:"complete lifecycle of software development",
+      feature4:"Agile methodologies",
       btn:"More..."
     },
     {
       img:"assets/images/yoga-img/abs-yoga.png",
       package:"Our Vision",
-      feature1:"Create the most talented team to use and build the lates technologies",
-      feature2:"Become the reference of great software solutions",
+      feature1:"We are the most talented team to develop software using the latest technologies",
+      feature2:"We are a reference to great software solutions",
       feature3:"",
       feature4:"",
       btn:"More..."
     },
     {
       img:"assets/images/yoga-img/abs-yoga.png",
-      package:"Why Growk is you perfect partner",
+      package:"Your perfect \n partner",
       feature1:"Located in the Mexican Silicon Valley ",
-      feature2:"Start, Expand or improve your team resucing risks",
+      feature2:"Start, Expand or improve your development team",
       feature3:"highest software development quality",
       feature4:"Agile methodology",
       btn:"More..."

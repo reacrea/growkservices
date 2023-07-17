@@ -15,7 +15,7 @@ export class ModernSassBusinessComponent implements OnInit {
   business = [
     {
       title:'Extended Teams',
-      description:'designed for clients that need their own development team, to be able of managing not only the tasks but the culture and methodology; the team will be allocated 100% to the client, this means the resources will be exclusively allocated for thr projects and tasks the client decides.'
+      description:'designed for clients that need their own development team, to be able of managing not only the tasks but the culture and methodology; the team is allocated 100% to our clients\' projects.'
     },
     {
       title:'Time and Materials',
